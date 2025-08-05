@@ -1,6 +1,5 @@
 # BMI-Health-Risk-Calculator---python-project
 BMI &amp; Health Risk Calculator - python project
-# 📘 BMI Calculator using Python
 
 This is a simple Python project that calculates **Body Mass Index (BMI)** based on user input for height and weight. It then classifies the BMI result into different health risk categories.
 
