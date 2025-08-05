@@ -21,3 +21,20 @@ BMI (Body Mass Index) is a measure of body fat based on height and weight that a
 | 18.5 – 24.9       | Low health risk                  |
 | 25 – 29.9         | Increased health risk            |
 | ≥ 30              | Very high health risk (Obese)    |
+
+## 📘 About the Project
+
+This Jupyter Notebook helps users calculate their **Body Mass Index (BMI)** by entering their height and weight. It then classifies the BMI into one of the standard health risk categories.
+
+## 💻 How to Use
+
+1. Open the `bmi_calculator.ipynb` file.
+2. Run the notebook in Jupyter or VS Code.
+3. Enter your height (in cm) and weight (in kg) when prompted.
+
+## 🧾 Sample Output
+Enter height_cm here:  155
+Enter weight_kg here:  49
+result: Your BMI is 20.40 and Low health risk
+
+
